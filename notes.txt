@@ -1,0 +1,33 @@
+STOCK AND SALES CONTROLL:
+1. Let's staff set up initial database
+	TOOLS USED:
+	A. TKinter is used for the GUI
+	B. SQLite for the database
+
+	INTERACTIONS WITH THE DATABASE
+	A. Create/View/Update/Delete stock in the DB
+	B. Create/View/Cancel a purchase
+	C. Calculate the sold totals and payment for band
+		(after commision)
+
+WEB INTERFACE:
+
+Provide wireframe designs for a future web interface
+	- include a stock check in page
+	- include a sales breakdown page
+
+WRITE TESTS:
+ - Use pytest for your tests
+ - use flake8 for formatting
+ - use latest python version
+ - use Sphinx for documentation
+
+https://www.youtube.com/watch?v=ibf5cx221hk	
+
+
+TODO:
+	Documentation
+	4. Do sphynx documentation
+
+	Wireframe for a future web interface
+	5. Draw some silly things and get silly marks for item
